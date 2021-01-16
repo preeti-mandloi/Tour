@@ -14,8 +14,8 @@
   		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   		<style type="text/css">
       
-      </style>
-	</head>
+     
+</head>
 <body>
   <nav class="navbar navbar-inverse">
     <div class="container-fluid">
@@ -63,8 +63,7 @@
         </div>
 
       </div>
-    
-    </div>
+
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left"></span>
